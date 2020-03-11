@@ -1,10 +1,10 @@
-# Is It Safe To Shop?
+<div align="center"># Is It Safe To Shop? </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-## Search Bar 
+<div align="center">## Search Bar </div>
 
-### Results
+<div align="center">### Results</div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Social Media Links
+<div align="center">### Social Media Links</div>
