@@ -1,0 +1,15 @@
+{
+  "title": "Company Database",
+  "link": "http://isitsafetoshop.com/",
+  "companys": [
+    {
+      "nickname": "Chipotle",
+      "fullname": "Chipotle Mexican Grill, Inc",
+      "website": "chipotle.com",
+      "instagram: "chipotle",
+      "twitter: "@ChipotleTweets",
+      "sickleave": "1"
+    },
+  ]
+}
+© 2020 GitHub, Inc.
